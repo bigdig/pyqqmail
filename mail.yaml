@@ -1,0 +1,8 @@
+mailto_list:
+    - xxx1@qq.com
+    - xxx2@qq.com
+smtp_host: smtp.qq.com
+smtp_ssl_port: 465
+mail_user: qqmail_username
+mail_pass: qqmail_password
+mail_postfix: qq.com
